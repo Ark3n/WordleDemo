@@ -1,8 +1,8 @@
 //
 //  AppDelegate.swift
-//  Wordle
+//  WordleDemo
 //
-//  Created by Arken Sarsenov on 03.02.2023.
+//  Created by Arken Sarsenov on 06.03.2023.
 //
 
 import UIKit
