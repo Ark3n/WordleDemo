@@ -1,5 +1,5 @@
 //
-//  ViewController.swift
+//  MainViewController.swift
 //  WordleDemo
 //
 //  Created by Arken Sarsenov on 06.03.2023.
